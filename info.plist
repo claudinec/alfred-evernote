@@ -333,7 +333,7 @@ node app.js "search" "updated:day-7"</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Show Recntely Updated Notes</string>
+				<string>Show Recently Updated Notes</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -423,7 +423,7 @@ node app.js "search" "created:day-14"</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Show Recntely Created Notes</string>
+				<string>Show Recently Created Notes</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
